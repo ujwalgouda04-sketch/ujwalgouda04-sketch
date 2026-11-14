@@ -138,7 +138,7 @@ Future Goals:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SudeepNaik17/SudeepNaik17/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ujwalgouda04-sketch/ujwalgouda04-sketch/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
