@@ -1,255 +1,156 @@
-<div align="center">
+# Hi, I'm Ujwal Gowda 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Sudeep%20Naik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+### Aspiring Backend Developer | Information Science Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Software+Engineering+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Contributor"/>
+I'm a second-year Information Science Engineering student at **Canara Engineering College**, passionate about software development and building practical solutions to real-world problems.
 
-<br/>
-
-![Student](https://img.shields.io/badge/Software_Engineer-Aspiring-7C3AED?style=for-the-badge)
-![Backend Developer](https://img.shields.io/badge/Backend-Developer-4F46E5?style=for-the-badge)
-![Location](https://img.shields.io/badge/Mangalore-Karnataka_India-A855F7?style=for-the-badge)
-
-<a href="https://linkedin.com/in/sudeep-naik17">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:Sudeepnaik801@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/SudeepNaik17">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=SudeepNaik17&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/SudeepNaik17?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/SudeepNaik17?affiliations=OWNER&style=for-the-badge&color=7C3AED)
-
-</div>
+I'm currently focusing on Backend Development, strengthening my programming fundamentals, learning modern backend technologies, and building projects that solve meaningful problems.
 
 ---
 
-# About Me
+## About Me
 
-I am **Sudeep Naik**, a Backend Developer focused on building scalable, secure, and production-ready web applications.
-
-My expertise lies in designing RESTful APIs, database architecture, authentication systems, and backend infrastructure using modern JavaScript technologies. I enjoy solving real-world engineering problems and continuously improving my software development skills.
-
-### Open To
-
-- Backend Development Roles
-- Software Engineering Internships
-- Full Stack Development Opportunities
-- Open Source Contributions
-- AI & Automation Projects
+- 🎓 Information Science Engineering Student at Canara Engineering College
+- 💻 Interested in Backend Development and Software Engineering
+- 🌱 Currently learning Node.js, Express.js and database management
+- 🔭 Building real-world projects and improving my development skills
+- 🧠 Practicing problem-solving and Data Structures & Algorithms
+- 🎯 Goal: Become a skilled Backend Software Engineer
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-### Languages
+**Programming Languages**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,cpp,mysql"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Frontend
+**Frontend Development**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Backend & Databases
+**Backend Development**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### Cloud, DevOps & Tooling
+**Databases**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+**Tools**
 
-# Featured Projects
-
-<details>
-<summary><b>Backend Ledger</b></summary>
-
-### Overview
-
-A modern backend accounting and ledger management system built with Node.js, Express.js, MongoDB, and JWT authentication.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Node.js, Express.js, MongoDB |
-| Scale | Multi-user Architecture |
-| Performance | Optimized API Endpoints |
-| Security | JWT Authentication |
-| Impact | Digital Ledger Management |
-| Repository | https://github.com/SudeepNaik17/backend-ledger |
-
-### Key Features
-
-- Secure User Authentication
-- JWT Authorization
-- Ledger Management
-- Transaction Tracking
-- MongoDB Integration
-- REST API Architecture
-- Scalable Backend Structure
-
-</details>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# Experience
+## Featured Projects
 
-## Backend Developer Intern — Krytil (Remote)
+### 1. GramaRide
 
-**November 2025 – May 2026**
+A rural transportation platform designed to make local transportation more accessible in underserved villages.
 
-Worked as a Backend Developer Intern contributing to backend systems, API development, database integration, and server-side application architecture.
+**Technologies:** React, Node.js, Express.js, MongoDB
 
-### Responsibilities
+- Ride booking concept for rural communities
+- Passenger and driver functionality
+- Location-based ride assistance
+- Designed around real-world rural transportation challenges
 
-- Developed RESTful APIs using Node.js and Express.js
-- Integrated MongoDB databases
-- Implemented Authentication & Authorization
-- Debugged and optimized backend services
-- Collaborated remotely with development teams
-- Followed industry-standard coding practices
+### 2. Vyapar Setu
 
-### Skills Used
+A digital business management solution designed to help small shop owners manage their daily business activities.
 
-`Node.js` `Express.js` `MongoDB` `JavaScript` `Git` `REST APIs`
+**Technologies:** Node.js, Express.js, MongoDB
 
----
+- Product and inventory management
+- Sales tracking
+- Customer management
+- Credit (Udhaar) tracking
+- Exploring AI-powered business insights
 
-# Achievements
+### 3. Namma Connect
 
-<div align="center">
+A web application developed as part of a hackathon project.
 
-| Recognition | Details |
-|------------|-----------|
-| Backend Development | Built production-ready ledger management platform |
-| Internship Experience | Successfully completed 6-month Backend Development Internship |
-| Software Engineering | Strong foundation in backend architecture and API development |
-| Continuous Learning | Expanding expertise in AI, Full Stack Development, and Cloud Technologies |
+**Technologies:** HTML, CSS, JavaScript
 
-</div>
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](#)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks)](#)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank)](#)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge)](#)
-
-</div>
+- Interactive web interface
+- Frontend development
+- Project development and experimentation
 
 ---
 
-# GitHub Analytics
+## Education
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SudeepNaik17&show_icons=true&theme=tokyonight&hide_border=true"/>
+**Canara Engineering College**
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SudeepNaik17&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+Bachelor's Degree – Information Science and Engineering
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats-ten-peach.vercel.app/?user=SudeepNaik17&theme=tokyonight&hide_border=true" alt="Sudeep's GitHub Streak" />
-
-</div>
-
+Currently pursuing 2nd Year Engineering.
 
 ---
 
-# Contribution Activity
+## Current Focus
 
-<div align="center">
+```text
+Currently Learning:
+  - Backend Development
+  - Node.js and Express.js
+  - Database Management
+  - REST API Development
+  - Data Structures and Algorithms
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SudeepNaik17&theme=tokyo-night&hide_border=true"/>
+Currently Building:
+  - GramaRide
+  - Vyapar Setu
+  - Namma Connect
 
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SudeepNaik17/SudeepNaik17/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
+Future Goals:
   - Advanced Backend Development
   - System Design
   - Cloud Computing
-  - AI & Machine Learning
-
-Building:
-  - Scalable Backend Applications
-  - RESTful APIs
-  - Automation Solutions
-
-Exploring:
-  - DevOps
-  - Microservices
-  - Cloud Infrastructure
-
-Open_To:
-  - Backend Developer Roles
-  - Software Engineering Opportunities
-  - Open Source Collaboration
+  - Scalable Application Development
 ```
 
 ---
 
-# Connect
+## GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ujwalgouda04-sketch&show_icons=true&hide_border=true&theme=default" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwalgouda04-sketch&layout=compact&hide_border=true&theme=default" alt="Most Used Languages" />
+</p>
 
-<a href="mailto:Sudeepnaik801@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/sudeep-naik17">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/SudeepNaik17">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ujwalgouda04-sketch&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
-<div align="center">
+## Connect With Me
 
-*"Building scalable software, one commit at a time."*
+<p align="left">
+  <a href="https://www.linkedin.com/in/ujwal-gowda-643a1b383/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ujwalgouda04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ujwalgouda04-sketch">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</div>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+<p align="center">
+  <i>"Learning every day. Building with purpose. Growing through code."</i>
+</p>
